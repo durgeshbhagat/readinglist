@@ -36,7 +36,7 @@
 ### SIGKDD
 1. SPARC: Self-Paced Network Representation for Few-Shot Rare Category Characterization
 
-1. [ ] Self-Paced Network Embedding
+1. Self-Paced Network Embedding
 
 * Deep Variational Network Embedding in Wasserstein Space
 
