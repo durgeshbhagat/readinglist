@@ -1,10 +1,12 @@
 # Liang Yang's Group Reading List
 
-## 2018 Conference
+## 2019 Conference
 
 ### ICML
 
 ### NIPS
+
+### ICLR
 
 ### SIGKDD
 
@@ -23,7 +25,38 @@
 ### AAAI
 
 
-## 2017 Conference 
+## 2018 Conference
+
+### ICML
+
+### NIPS
+
+### ICLR
+
+### SIGKDD
+* SPARC: Self-Paced Network Representation for Few-Shot Rare Category Characterization
+
+* Self-Paced Network Embedding
+
+* Deep Variational Network Embedding in Wasserstein Space
+
+* Adversarial Attacks on Neural Networks for Graph Data
+
+
+### WWW
+
+### ICDM
+
+### CIKM
+
+### SDM
+
+### WSDM
+
+### IJCAI
+
+### AAAI
+
 
 ## Journal
 
