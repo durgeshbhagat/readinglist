@@ -34,9 +34,9 @@
 ### ICLR
 
 ### SIGKDD
-* SPARC: Self-Paced Network Representation for Few-Shot Rare Category Characterization
+- [x] SPARC: Self-Paced Network Representation for Few-Shot Rare Category Characterization
 
-* Self-Paced Network Embedding
+- [ ] Self-Paced Network Embedding
 
 * Deep Variational Network Embedding in Wasserstein Space
 
